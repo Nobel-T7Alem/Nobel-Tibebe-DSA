@@ -1,5 +1,5 @@
 package Question4;
-public class BubbleSort {
+public class q4 {
 
     public static void bubbleSort(char[] arr) {
         int n = arr.length;
